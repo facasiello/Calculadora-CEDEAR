@@ -1,0 +1,1 @@
+Calculadora CEDEAR V4. Proyecto Android para compilar APK en GitHub Actions. Subir el CONTENIDO de esta carpeta a la raíz de un repositorio GitHub; ir a Actions > Compilar APK CEDEAR V4 > Run workflow; descargar artifact Calculadora-CEDEAR-V4-APK. No se ha compilado ni probado en Android.
